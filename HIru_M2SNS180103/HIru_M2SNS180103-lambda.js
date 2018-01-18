@@ -16,7 +16,7 @@ exports.handler = function (event, context, callback) {
 				StringValue: '94718386792'
 			}
 		},
-		PhoneNumber: '+94715397214'
+		PhoneNumber: '+94711853897'
 	}).promise()
 		.then(data => {
 			console.log('Success', data);
